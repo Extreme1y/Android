@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="chloe_martin_title">Appartement aux couleurs du sud de la France.</string>
+    <string name="chloe_martin_year">Chloe Martin (2021)</string>
+    <string name="touann_gatouillat_vergos_title">Morning of getting lost in the winding lanes of Old Delhi.</string>
+    <string name="touann_gatouillat_vergos_year">Touann Gatouillat Vergos (2023)</string>
+    <string name="kenneth_coffie_title">National Museum, Doha, Qatar</string>
+    <string name="kenneth_coffie_year">Kenneth Coffie (2023)</string>
+</resources>
